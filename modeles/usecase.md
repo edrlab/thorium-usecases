@@ -2,7 +2,7 @@
 ---
 title: {{title}}
 date: {{date}}
-tags: #touspublics #grandpublic #chercheur #etudiant #editeur #organiser #lire
+tags: #projetCNL2023 #suggestion #issue #projetDYS #a-projeter
 ---
   <!---- 
 utiliser code pour les boutons:  ``
@@ -23,4 +23,4 @@ utiliser code pour les boutons:  ``
 
 ## Autres informations utiles
 
-* 
+
