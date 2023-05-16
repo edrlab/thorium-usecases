@@ -1,3 +1,2 @@
-[[Bibliothéque]]
-[[Fenétre de lecture]]
-[[Fiche livre]]
+[[Fenétre principale]]
+[[Fenêtre de lecture]]

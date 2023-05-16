@@ -1,4 +1,6 @@
-La fenetre de lecture est l'interface qui permet de consulter et d'utiliser un livre.
+#arelireArthur 
+
+La fenêtre de lecture est l'interface qui permet de consulter et d'utiliser un livre.
 
 Lors de son ouverture depuis la bibiotheque ou la fiche livre, elle remplace la fenetre de bibliotheque. Il est possible de la détacher avec le bouton "afficher la biblioheque".
 
@@ -20,7 +22,7 @@ La fenetre de lecture
 * d'aller à un point de navigation utilisé en aval (jump forward)
 * de consulter l'avancement de la lecture (barre de progression)
 * de situer le point de lecture dans le contenu (plus d'information ou ctrl+k)
-* de déclencher la lecture audio par voix de synthése ([TTS](Glossaire#tts))
+* de déclencher la lecture audio par voix de synthése ([TTS](Glossaire.md#tts))
 * d'ajouter un marque page (signet)
 * de passer en plein écran (seul le contenu et alors affiché, les boutons de navigation et de lecture audio apparissent lorsque la curseur de la souris touche un bord haut ou bas)
 * de fermer la fentre de lecture (Retour à la bibliothéque)
@@ -31,3 +33,6 @@ La fenetre de lecture
 * au [[panneau de navigation]]
 * à l'outil de recherche
 
+
+## suggestions
+#suggestion
