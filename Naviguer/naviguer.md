@@ -1,6 +1,0 @@
-* [[Accéder à un chapitre]]
-* [[Accéder à un point de repére]]
-* [[Accéder à une référence de page]]
-* [[Se situer dans un livre]]
-* [[Accéder à un marque page]]
-* [[Accéder aux notes]]

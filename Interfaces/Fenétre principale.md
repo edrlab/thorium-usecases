@@ -1,3 +1,0 @@
-[[Bibliothéque]]
-[[Catalogues]]
-[[Préférences]]
