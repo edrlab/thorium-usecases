@@ -2,7 +2,7 @@
 
 La fenêtre de lecture est l'interface qui permet de consulter et d'utiliser un livre.
 
-Lors de son ouverture depuis la bibiotheque ou la fiche livre, elle remplace la fenetre de bibliotheque. Il est possible de la détacher avec le bouton "afficher la biblioheque".
+Lors de son ouverture depuis la bibiotheque ou la fiche livre, elle remplace la fenêtre de bibliotheque. Il est possible de la détacher avec le bouton "afficher la bibliothèque".
 
 Lors de l'ouverture d'un livre depuis le systéme d'exploitation du fichier, la fenetre de lecture est ouverte en mode détachée, la fenetre de bibliotheque est également ouverte en tache de fond.
 

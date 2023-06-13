@@ -7,12 +7,12 @@ date: 2023-04-27
 #arelireArthur
 
 ## résumé
-La fenetre de bibliotheque est indépendante des fenetres de lectures. Cependant fermer cette fenetre entraine la fermeture de toutes les fenetres de lecture ouvertes.
+La fenêtre de bibliothèque est indépendante des fenêtres de lecture. Cependant fermer cette fenêtre entraine la fermeture de toutes les fenêtres de lecture ouvertes et permet la sortie de l'application.
 
-La fenetre de bibliothéque est composée de deux vues permettant chacunes deux affichages : 
-[[#La **vue principale** ou **accés rapide**]] et [[#La **vue tous les livres**]]
+La fenetre de bibliothèque est composée de deux vues permettant chacune deux affichages : 
+[[#La **vue principale** ou **accès rapide**]] et [[#La **vue tous les livres**]]
 
-## Vue principale ou **accés rapide** 
+## Vue principale ou **accès rapide** 
 
 *  les 5 derniers livres par catégorie. Les catégories possibles sont : 
 		* Récement ajouté
@@ -36,6 +36,7 @@ La fenetre de bibliothéque est composée de deux vues permettant chacunes deux 
 ## Vue tous les livres 
 
 ### affiche
+
 * tous les livres dans un tableau paginé de 6 colonnes :
 		* couverture
 		* titre
@@ -52,7 +53,7 @@ La fenetre de bibliothéque est composée de deux vues permettant chacunes deux 
 * une recherche globale e temps réel dans toutes les métadonnées des livres (champ Rechercher)
 - d'ouvrir la [Fiche livre](Fiche livre) (cliquer  sur la couverture ou sur le titre)
 
-## donne acces
+## donne accès
 
 <!--
 * [[Ajouter un livre emprunte]]
